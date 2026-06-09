@@ -15,3 +15,5 @@ Concepts Used:
 - Conditional statements (if-else)
 - User input (Scanner)
 - Methods/functions
+
+Developed by: Wan Muhammad Daniel 
